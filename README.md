@@ -3,7 +3,7 @@
 CONNECT is a MERN stack project designed for seamless communication within a college campus. It connects clubs, departments, and students, providing a platform for announcements, authorization management, profile photo uploads, and the creation/liking of posts.
 
 ## Demo
-<img src="./connect.gif" width="800">
+<img src="./connect2.gif" width="800">
 
 ## Tech Stack
 
